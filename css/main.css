@@ -13,8 +13,15 @@ http://www.templatemo.com/tm-515-eatery
     font-family: 'Montserrat', sans-serif;
     overflow-x: hidden;
   }
+.logo-main{
 
-
+  width: 200px;
+  height: 50%;
+}
+.logo-div{
+  width: 20%;
+  height: 30%;
+}
 
   /*---------------------------------------
      TYPOGRAPHY              
